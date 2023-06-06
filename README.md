@@ -16,6 +16,9 @@ Enviar o arquivo .zip para **tic@egp.ce.gov.br** com seu nome completo - vaga no
 ## [Para Todos]
 Links que podem ajudar nas atividades
 
+**Link logo EGPCE**
+https://raw.githubusercontent.com/atilasilvalima/Estagiarios_Egpce_2023/main/EGPCE.png
+
 **Link com acesso a logo EGPCE + SEPLAG**
 https://raw.githubusercontent.com/atilasilvalima/Estagiarios_Egpce_2023/main/Logo_Egpce.png
 
