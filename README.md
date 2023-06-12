@@ -18,7 +18,6 @@ Possível ação: Parceria com a Secretária das mulheres e Seplag para a promo�
 Possível ação: Campanha de divulgação dos canais de apoio a pessoas com depressão e palestra sobre como identificar pessoas que precisam de ajuda e como lidar com elas em meio a crise depressiva.
 
 **Tamanho da arte**
-
 1080px x 1080px
 
 
@@ -28,16 +27,13 @@ Enviar o arquivo .zip para **tic@egp.ce.gov.br** com seu nome completo - vaga no
 Links que podem ajudar nas atividades
 
 **Link logo EGPCE**
-
 https://raw.githubusercontent.com/atilasilvalima/Estagiarios_Egpce_2023/main/EGPCE.png
 
 **Link com acesso a logo EGPCE + SEPLAG**
-
 https://raw.githubusercontent.com/atilasilvalima/Estagiarios_Egpce_2023/main/Logo_Egpce.png
 
 
 **Instagram da EGPCE**
-
 https://www.instagram.com/egpce/
 
 Boa sorte.
