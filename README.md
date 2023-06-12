@@ -14,7 +14,7 @@ Criar uma arte de conscientização para o mês de Agosto e outra para o mês de
 ## Agosto Lilás: campanha sobre prevenção e enfrentamento à violência contra a mulher
 Parceria com a Secretária das mulheres e Seplag para a promoção de um evento no auditório sobre um aspecto relevante do tema. O momento poderia ser ministrado por um profissional psicólogo ou alguém da secretaria das mulheres que fale sobre as políticas públicas para combate a violência. 
 
-##Setembro Amarelo: campanha brasileira de prevenção ao suicídio
+## Setembro Amarelo: campanha brasileira de prevenção ao suicídio
 Campanha de divulgação dos canais de apoio a pessoas com depressão e palestra sobre como identificar pessoas que precisam de ajuda e como lidar com elas em meio a crise depressiva.
 
 
