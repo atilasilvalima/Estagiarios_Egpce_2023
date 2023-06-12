@@ -25,8 +25,8 @@ Ser um centro de produção e socialização de saberes em gestão pública, con
 
 Valores  
 Desenvolver o processo educacional em gestão pública, com vistas ao aprimoramento das competências dos atores públicos, possibilitando a melhoria da prestação dos serviços ao cidadão.  
-
-EGPCE - 2023  
+    
+  
 ---------------------
 
 ## [Vaga Designer]
