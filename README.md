@@ -5,7 +5,29 @@
 Desenvolver uma página IGUAL a página apresentada no link abaixo.
 https://raw.githubusercontent.com/atilasilvalima/Estagiarios_Egpce_2023/main/SelecaoEstagiarios_EGPCE_2023.png
 
-Enviar o arquivo .zip para **tic@egp.ce.gov.br** com seu nome completo - vaga no assunto do e-mail.
+Enviar o arquivo .zip para **tic@egp.ce.gov.br** com seu nome completo - vaga no assunto do e-mail.  
+
+---------------------
+**Textos**  
+O que um estagiário faz ?  
+Os estagiários geralmente assumem funções que não demandam tomada de decisões individuais, ou até mesmo são responsáveis pela entrega de resultados de forma direta nas empresas. Geralmente, os estagiários têm como função geral, a participação no desenvolvimento ou realização de simulações, alterações de medidas ou revisões sob a supervisão de superiores. Quando esse não é o caso, outra possibilidade se aplica ao acompanhamento e coleta de dados relativos a determinados serviços, departamentos ou ações ou a atuação supervisionada de sua função com base na sua área de estudo.
+
+Tipos de estágios:  
+Estágio remunerado  
+Estágio obrigatório ou curricular  
+Estágio não obrigatório ou voluntário  
+
+Missão  
+Desenvolver o processo educacional em gestão pública, com vistas ao aprimoramento das competências dos atores públicos, possibilitando a melhoria da prestação dos serviços ao cidadão.  
+
+Visão  
+Ser um centro de produção e socialização de saberes em gestão pública, contribuindo com a formulação de políticas públicas do Governo do Estado do Ceará.  
+
+Valores  
+Desenvolver o processo educacional em gestão pública, com vistas ao aprimoramento das competências dos atores públicos, possibilitando a melhoria da prestação dos serviços ao cidadão.  
+
+EGPCE - 2023  
+---------------------
 
 ## [Vaga Designer]
 
